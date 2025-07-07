@@ -17,7 +17,9 @@ flex-basis: calc(33% -6rem);
 
 
 }
-
+.cartao__conteudo__pergunta,
+.cartao__conteudo__resposta {
+bac
 footer {
 background-color: black;
 color: white;
